@@ -35,7 +35,7 @@ git add .
 git commit [insira nome/caminho do arquivo aqui e dê ENTER]
 
 > Comitar informando mensagem
-git ommit [insira nome/caminho do arquivo aqui] -m [insira a mensagem entre parenteses e dê ENTER]
+git commit [insira nome/caminho do arquivo aqui] -m [insira a mensagem entre parenteses e dê ENTER]
 
 > Clonar um repositorio remoto que já existe
 git clone [endereço do repositório e dê ENTER]
