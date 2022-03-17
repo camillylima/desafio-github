@@ -1,1 +1,41 @@
-download do GIT > link https://git-scm.com/downloads
+Benefícios do Git e do GitHub:
+
+> Controle de versão
+> Armazenamento em nuvem
+> Trabalho em equipe
+> Melhorar seu código
+> Reconhecimento 
+
+Navegação básica no terminal e instalação
+
+GUI X CLI > Você mexe no git pela linha de comando
+
+Windows comandos: 
+cd (mudar diretorio) 
+dir (listar repositórios) 
+mkdir (criar diretorios) 
+del/rmdir (deletar diretorios)
+ctrl+l (limpar terminal)
+
+Alguns comandos Git
+
+> Criar novo repositório
+git init
+
+> Verificar estado dos arquivos/diretórios
+git status
+
+> Adicionar arquivo/diretório
+git add meu_arquivo.txt
+
+> Adicionar todos os arquivos/diretórios
+git add .
+
+> Comitar um arquivo
+git commit [insira nome/caminho do arquivo aqui e dê ENTER]
+
+> Comitar informando mensagem
+git ommit [insira nome/caminho do arquivo aqui] -m [insira a mensagem entre parenteses e dê ENTER]
+
+> Clonar um repositorio remoto que já existe
+git clone [endereço do repositório e dê ENTER]
